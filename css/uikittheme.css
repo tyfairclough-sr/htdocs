@@ -19234,9 +19234,9 @@ body {
   .tm-toolbar-default .uk-navbar-nav > li > a {
     color: rgba(255, 255, 255, 0.8);
   }
-  .uk-navbar-nav > li > a {
+  /* .uk-navbar-nav > li > a {
     color: #fff;
-  }
+  } */
   .uk-navbar-nav > li > a:visited,
   .uk-navbar-nav > li > a:hover,
   .uk-navbar-nav > li > a:active,
