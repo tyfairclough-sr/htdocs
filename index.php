@@ -3,13 +3,13 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <title>Smartr - Prototypes</title>
-  <link href="/prototypes/css/uikit.css" rel="stylesheet" type="text/css" />
-  <link href="/prototypes/css/uikittheme.css" rel="stylesheet" type="text/css" />
-  <script src="/prototypes/js/uikit.min.js"></script>
+  <link href="/smartr-prototype/css/uikit.css" rel="stylesheet" type="text/css" />
+  <link href="/smartr-prototype/css/uikittheme.css" rel="stylesheet" type="text/css" />
+  <link href="/smartr-prototype/css/app.css" rel="stylesheet" type="text/css" />
+  <script src="/smartr-prototype/js/uikit.min.js"></script>
+  <script src="/smartr-prototype/js/app.js"></script>
 </head>
 <body class="">
-
-
 
         <div class="tm-page">
 
